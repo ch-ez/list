@@ -889,6 +889,7 @@ Ice Castle
 Ice Cream
 Ice Cream Cone
 Ice Cream Van
+Ice Cream Truck
 Ice Cube
 Ice Skates
 Ice Spike
