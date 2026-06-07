@@ -118,6 +118,7 @@ Beef
 Beehive
 Beetle
 Bell
+Bell Pepper
 Belt
 Bench
 Berries
